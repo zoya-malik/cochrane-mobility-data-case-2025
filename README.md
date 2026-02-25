@@ -2,7 +2,7 @@
 ### Mitigating Economic Leakage in Downtown Cochrane
 **Project Team: TWIN VECTORS (Zoya Malik & Talha Mahr)**
 
-This repository contains the technical submission for the 2025 Urban Systems Mobility Data Case Competition. Our team, **Twin Vectors**, was selected as a **Top 5 Finalist**, placing **4th overall out of 20 competing teams**.
+This repository contains the technical submission for the 2025 Urban Systems Mobility Data Case Competition. Our team, **Twin Vectors**, was selected as a **Top 5 Finalist**, placing **1st place overall out of 20 competing teams**.
 
 
 ## Project Overview
@@ -43,7 +43,7 @@ To repatriate lost demand, our study recommends five prioritized actions that le
 
 ## Project Context
 * **Competition**: Town of Cochrane x Urban Systems Mobility Data Case Competition 2025.
-* **Achievement**: Top 5 Finalist (4th Place / 20 Teams).
+* **Achievement**: Top 5 Finalist (1st Place / 20 Teams).
 * **Dataset**: Pinnacle Platform Mobility Data provided by Azira.
 * **Strategic Alignment**: Findings are grounded in the Cochrane Downtown Revitalization Plan and Envision Cochrane 2050.
 
