@@ -1,0 +1,23 @@
+# Data
+data/raw/
+*.csv
+*.parquet
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Outputs
+outputs/
+*.pkl
+*.model
+
+# macOS
+.DS_Store
